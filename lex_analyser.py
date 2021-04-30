@@ -9,7 +9,7 @@ token = []
 
 
 ch = " "
-fptr = open("chongi.txt","r")
+fptr = open("grammar.txt","r")
 
 def next_char():
     global ch
