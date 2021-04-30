@@ -82,7 +82,7 @@ def follow_calc(first):
     return follows
 
 def get_grammar():
-    fp = open("Preethi.txt","r")
+    fp = open("grammar.txt","r")
     for line in fp:
         line = line.split(" -> ")
 
